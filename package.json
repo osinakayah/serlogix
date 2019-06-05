@@ -1,0 +1,18 @@
+{
+  "name": "serlogix",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "description": "A blockchain Peer to peer delivery network",
+  "repository": "https://github.com/osinakayah/serlogix",
+  "author": "Osinakayah Joseph Ifeanyi",
+  "dependencies": {
+    "openzeppelin-solidity": "2.2.0",
+    "truffle": "^5.0.12",
+    "zos": "^2.2.3",
+    "zos-lib": "^2.2.3"
+  },
+  "devDependencies": {
+    "ganache-cli": "^6.4.2"
+  }
+}
