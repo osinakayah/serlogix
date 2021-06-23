@@ -1,5 +1,5 @@
 # Serlogix
-A peer to peer logistics systems build on the Ethereum network
+A peer to peer logistics systems built on the Ethereum network
 
 It allows customers customers and dispatchers to transact without a middleman.
 
